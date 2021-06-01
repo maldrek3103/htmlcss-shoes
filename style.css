@@ -1,0 +1,37 @@
+/* Reset */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Utilities */
+
+
+/* Navbar */
+
+#topnav{
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+#topnav ul{
+    list-style-type: none;
+}
+
+#topnav li{
+    display: inline-block;
+    margin: 10px;
+    padding: 20px;
+}
+
+
+/* Main */
+
+div.model-1{
+    width: 100vw;
+    height: 100vh;
+    background-color: #f00;
+}
